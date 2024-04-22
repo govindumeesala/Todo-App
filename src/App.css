@@ -1,0 +1,19 @@
+.container {
+  padding: 5px;
+}
+
+input {
+  width: 100%;
+}
+
+.btn-wid {
+  width: 80px;
+}
+
+@media (max-width: 768px) {
+  .btn-wid {
+    width: 60px;
+  }
+}
+
+
